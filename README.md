@@ -2,7 +2,7 @@
 
 The structure and columns of this report are inspired by a real Block History Report; however, all data used here is AI-generated and entirely fictitious.
 
-![Uploading Recording Block History Report GIF.gif…]()
+![Recording Block History Report GIF](https://github.com/user-attachments/assets/66647237-a6eb-48eb-ad41-4b077f7dd83d)
 
 
 # Power BI Dashboard
