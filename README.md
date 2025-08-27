@@ -7,5 +7,12 @@ The structure and columns of this report are inspired by a real Block History Re
 
 # Power BI Dashboard
 
+
+
 # File Reference
 
+| Name                                  | File  | Description                              |
+| :-------------------------------------| :-----| :----------------------------------------|
+| `Block History Report.xlsx`           | `XLSX`| The finished Excel report                |
+| `Sample Salesforce banding.csv`       | `CSV` | Sample data based on a SAP report        |
+| `Sample Salesforce status history.csv`| `CSV` | Sample data based on a Salesforce report |
