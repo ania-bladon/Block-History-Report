@@ -8,8 +8,7 @@ The structure and columns of this report are inspired by a real Block History Re
 
 # Power BI Dashboard
 
-<img width="1007" height="561" alt="dashboard screenshot" src="https://github.com/user-attachments/assets/9e658ff3-2193-4d54-b448-15a4e96bd2bb" />
-
+<img width="1007" height="561" alt="block history report dashboard1" src="https://github.com/user-attachments/assets/c38f03c8-f4ee-44a0-ba7a-bd79f1f53d5a" />
 
 # File Reference
 
